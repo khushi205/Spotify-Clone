@@ -1,2 +1,2 @@
 # Spotify-Clone
- Simple Spotify clone .
+ Simple Spotify clone.
