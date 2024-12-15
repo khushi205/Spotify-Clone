@@ -1,6 +1,6 @@
 # Spotify-Clone
 
-Here are some potential features for a **Spotify Clone** project:  
+Here are some potential features for a **Spotify Clone** project:
 
 ### **User Features**  
 1. **User Authentication**  
